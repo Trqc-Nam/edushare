@@ -1,0 +1,20 @@
+[server]
+headless = true
+enableCORS = false
+enableXsrfProtection = false
+
+[theme]
+# Màu nhấn chủ đạo (Tím Minimalist) cho nút bấm, thanh trượt, checkbox
+primaryColor = "#6C63FF"
+
+# Nền trang web (Trắng tinh)
+backgroundColor = "#FFFFFF"
+
+# Nền phụ cho Sidebar và các khối bảng biểu (Xám cực nhạt để dễ nhìn)
+secondaryBackgroundColor = "#F8F9FA"
+
+# Màu chữ (Đen)
+textColor = "#000000"
+
+# Font chữ hiện đại
+font = "sans serif"
